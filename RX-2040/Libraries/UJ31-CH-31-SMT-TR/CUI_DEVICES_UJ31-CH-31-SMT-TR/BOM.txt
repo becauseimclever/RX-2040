@@ -1,0 +1,3 @@
+3DX_CUI_DEVICES_Supplier: CUI Devices
+3DX_CUI_DEVICES_Description: No Back Cover, USB Receptacle
+3DX_CUI_DEVICES_Model Number: UJ31-CH-31-SMT-TR
