@@ -1,9 +1,3 @@
 (fp_lib_table
-  (lib (name "THB001P")(type "KiCad")(uri "${KIPRJMOD}/Libraries/THB001P/THB001P.pretty")(options "")(descr ""))
-  (lib (name "ADS112C04IPWR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_ADS112C04IPWR/KiCAD/2022-02-26_06-45-39/footprints.pretty")(options "")(descr ""))
-  (lib (name "DRV2605LDGSR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_DRV2605LDGSR/KiCAD/2022-02-26_04-18-32/footprints.pretty")(options "")(descr ""))
-  (lib (name "PCM1780DBQR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_PCM1780DBQR/KiCAD/2022-02-26_06-23-56/footprints.pretty")(options "")(descr ""))
-  (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_RP2040/KiCAD/2022-04-24_01-33-40/footprints.pretty")(options "")(descr ""))
-  (lib (name "UJ31-CH-31-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/UJ31-CH-31-SMT-TR")(options "")(descr ""))
-  (lib (name "NCP1117")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_NCP1117LPST33T3G/KiCAD/2022-04-24_03-23-59/footprints.pretty")(options "")(descr ""))
+  (version 7)
 )
