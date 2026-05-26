@@ -366,12 +366,24 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -416,7 +428,7 @@
         "uuid": "5b714c13-57c1-46a0-ae07-5a9ab6f1fdb7"
       }
     ],
-    "used_designators": "U1,P1",
+    "used_designators": "U1,P1,C1-36,R1-25,L1-2,#PWR1",
     "variants": []
   },
   "sheets": [
